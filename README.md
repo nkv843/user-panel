@@ -6,6 +6,18 @@
 
 The application provides a convenient interface for searching, sorting, and detailed viewing of users with advanced filtering capabilities.
 
+**On the main page, you can see the list of users and search for a specific user.**
+
+![Main view of the application showing user list and search](./docs/main.png)
+
+**When you click on a user, you can see the detailed information about the user.**
+
+![User detail view](./docs/modal.png)
+
+**You can also search for a user by name or email.**
+
+![Search](./docs/search.png)
+
 ## Project Features
 
 ### 🔍 **Advanced Search & Filtering**
